@@ -6,7 +6,7 @@
 
 This repo is the skidded site that was **rarbin.com**. Don’t use it.
 
-**Use [DiddyBin](https://diddybin.com) instead**
+**Use [DiddyBin](https://diddybin.ru) instead**
 
 It’s better than Doxbin and better than whatever this was copied from. Go there.
 
